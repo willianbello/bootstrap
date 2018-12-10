@@ -1,0 +1,1 @@
+Criando alertas com possibilidade de serem fechados e utilizando ARIA (Acessible Rich Internet Application) para leitores de tela.
