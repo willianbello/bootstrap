@@ -1,0 +1,6 @@
+ - Criação de menu de navegação com responsividade e botão toggle que surge quando atinge um 	tamanho de tela pequeno.
+ - Posicionamento do menu: ml-auto ou mr-auto.
+ - Criação de menu Dropdown com itens, divisor e header dentro.
+ - Criação de brand para logos/marcas
+ - margens: margin-bottom, margin-left, margin-right.
+ - cor das margens: margin-dark, margin-primary, margin, light, margin-info, etc..

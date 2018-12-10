@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.lo {
+    color: orange;
+}
+
+.logo {
+    font-weight: bolder;
+    text-shadow: 1px 1px 4px white;
+}
+
+nav {
+    border-radius: 10px;
+}
