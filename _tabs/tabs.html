@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>Tabs</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <header class="border-bottom pb-2 mb-2 mt-2">
+            <h1>Tabs</h1>
+            <p class="lead">Alterne facilmente entre conteúdos</p>
+        </header>
+        <!-- header -->
+
+        <!-- Criação das abas -->
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" id="informacoes-tab" data-toggle="tab" href="#informacoes" role="tab" aria-controls="informações" aria-selected="true">Informações</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="avaliacoes-tab" data-toggle="tab" href="#avaliacoes" role="tab" aria-controls="avaliações" aria-selected="false">Avaliações</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="compre-tambem-tab" data-toggle="tab" href="#compre-tambem" role="tab" aria-controls="Compre-Também" aria-selected="false">Compre Também</a>
+            </li>
+        </ul>
+        <!-- Conteúdo das abas -->
+        <div class="tab-content" id="tabContente">
+
+            <!-- aba Informações -->
+            <div class="tab-pane fade active show mt-3" id="informacoes" role="tabpanel" aria-labelledby="informacoes-tab">
+                <h3>Informações</h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tempor, nisl sed consequat vehicula, lorem arcu rhoncus lorem, vitae lobortis sem justo et tellus. Donec eu feugiat mi. Morbi odio orci, aliquet vestibulum odio eget, mollis tempus tellus.
+                    Suspendisse sed turpis id ex pretium bibendum eu a sapien. Duis tempor interdum mi non tincidunt. Nullam nec dolor sit amet mi ultrices vulputate. Phasellus ac sem eget libero egestas tempor. Nam pharetra lacus a tristique ullamcorper.
+                    Nulla vulputate enim metus, sit amet tincidunt magna efficitur sed.
+                </p>
+            </div>
+
+            <!-- aba Avaliações -->
+            <div class="tab-pane fade mt-3" id="avaliacoes" role="tabpanel" aria-labelledby="avaliacoes-tab">
+                <h3>Avaliações</h3>
+                <p>
+                    Morbi feugiat ut neque non pretium. Nullam in nisi et sem consectetur molestie ornare sit amet ante. Nulla facilisi. Sed eu iaculis felis, non fermentum ipsum. Sed eleifend euismod ex. Praesent sed metus convallis, congue purus quis, condimentum urna.
+                </p>
+            </div>
+
+            <!-- aba Compre Também -->
+
+            <div class="tab-pane fade mt-3" id="compre-tambem" role="tabpanel" aria-labelledby="compre-tambem-tab">
+                <h3>Compre Também</h3>
+                <p>
+                    Sed congue neque non est iaculis vestibulum. Aenean consectetur diam vel ornare placerat. Ut rutrum sed libero nec elementum. Duis interdum suscipit orci, at blandit nisi auctor facilisis. Etiam eget velit viverra, faucibus nunc pulvinar, mattis dolor.
+                    Sed lacinia mi odio, ultricies sagittis eros feugiat vitae.
+                </p>
+            </div>
+        </div>
+
+    </div>
+    </div>
+    <!-- fim container -->
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+
+</html>
