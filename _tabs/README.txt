@@ -1,0 +1,2 @@
+ - Criação de tabs (abas que alternam facilmente entre conteúdos dentro do site)
+ - Utilização de navbar com pane.
