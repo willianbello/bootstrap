@@ -1,0 +1,49 @@
+/*
+*
+*@author Willian Bello
+*@version 0.1
+*/
+
+
+/* ================= layout ================= */
+
+
+/* -- Barra de Navegação -- */
+
+.img-logo {
+    height: 40px;
+    width: 132px;
+    display: block;
+    background: url('_imagens/spotify.svg') no-repeat;
+    background-size: contain;
+    color: transparent;
+}
+
+.navbar-transparente {
+    padding: 15px 0px;
+    background: rgba(0, 0, 0, 0.6);
+    border: none;
+}
+
+.navbar-brand {
+    padding: 0px;
+    padding-top: 5px;
+}
+
+.divisor {
+    width: 1px;
+    height: 16px;
+    background: white;
+    margin: 16px 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #9bdcf0;
+}
+
+
+/* ===================== Tipografia =====================*/
