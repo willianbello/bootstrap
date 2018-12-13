@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Recriando o site do Spotify<h1>
 <p>Será utilizado todos os recursos aprendidos durante o decorrer do curso
 </p>
@@ -10,3 +11,7 @@
  - Atualizando bootstrap pra versão 4.
  - Construindo capa do site com botões Premium e Free.
  - Colocando imagem de background com 3 camadas (imagem, ruido e linear-gradiante).
+=======
+# gh-pages-recriando-spotify
+Recriando site do spotify
+>>>>>>> 5731f22616cf9bc9fbf9449b16bbec1ecd92c105
