@@ -3,7 +3,7 @@
 </p>
 
 <h2>Partes criadas até o momento:</h2>
- - Header.
+ * Header.
  - Navbar fixo (barra de navegação).
  - Logo.
  - Links da barra de navegação.
