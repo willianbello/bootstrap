@@ -1,5 +1,5 @@
 <h1>Recriando o site do Spotify<h1>
-<p>Será utilizado todos os recursos aprendidos durante o decorrer do curso
+<p>Será utilizado todos os recursos aprendidos durante o curso
 </p>
 
 <h2>Partes criadas até o momento:</h2>
