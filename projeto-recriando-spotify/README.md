@@ -13,5 +13,9 @@
   <li>Construindo capa do site com botões Premium e Free.</li>
   <li>Colocando imagem de background com 3 camadas (imagem, ruido e linear-gradiante).</li>
   <li>Corrigindo cor do menu que fica transparente e colocando título 'Menu' quando atinge o tamanho md (medium devices) para facilitar visualização do usuário.
+  <li>Criando uma div para serviços e colocando imagens e texto.</li>
+  <li>Ajusta da transparência do navbar</li>
+  <li>Configurado navbar para ficar fixo no topo</li>
+  <li>deixando imagens responsivas.</li>
  </ul>
 
