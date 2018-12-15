@@ -21,5 +21,6 @@
   <li>Rotacionando imagens</li>
   <li>escondido a barra de rolagem horizontal no body por causa das imagens atraves do "overflow-x: hidden" </li>
   <li>Ajuste da formatação dos texto da seção recursos.</li>
+  <li>Finalizado projeto Spotify e colocado em prática tudo que foi aprendido durante o curso.
  </ul>
 
