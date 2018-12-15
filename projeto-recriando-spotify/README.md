@@ -17,5 +17,9 @@
   <li>Ajusta da transparência do navbar</li>
   <li>Configurado navbar para ficar fixo no topo</li>
   <li>deixando imagens responsivas.</li>
+  <li>Criado seção de recursos com as imagens</li>
+  <li>Rotacionando imagens</li>
+  <li>escondido a barra de rolagem horizontal no body por causa das imagens atraves do "overflow-x: hidden" </li>
+  <li>Ajuste da formatação dos texto da seção recursos.</li>
  </ul>
 
