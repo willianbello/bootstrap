@@ -113,6 +113,19 @@
             /* Chrome, Safari, Opera */
             padding-left: 80px;
         }
+        /* ======== Rodapé ======== */
+        
+        footer {
+            background: black;
+            padding: 50px 0 20px;
+            position: relative;
+        }
+        
+        .redes {
+            float: right;
+            margin: 0px;
+            padding: 0px 5px;
+        }
         /* ===================== Tipografia =====================*/
         
         h1 {
@@ -158,4 +171,28 @@
         
         .bold {
             font-weight: bold;
+        }
+        
+        .tituloRodape {
+            color: gray;
+            text-transform: uppercase;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        
+        .itensRodape {
+            text-decoration: none;
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+            padding: 5px 0px;
+        }
+        
+        .nav-item {
+            padding: 5px 0px;
+        }
+        
+        .nav-item a:hover {
+            color: rgb(202, 198, 198);
+            text-decoration: none;
         }
