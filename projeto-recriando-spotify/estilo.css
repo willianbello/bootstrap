@@ -9,6 +9,7 @@
             background: url('_imagens/capa.png'), url('_imagens/ruido.png'), linear-gradient(to right, #ff4169, #7c26f8);
             background-attachment: fixed;
             font-family: Helvetica, Arial, sans-serif;
+            overflow-x: hidden;
         }
         /* -- Barra de Navegação -- */
         
@@ -95,20 +96,33 @@
             width: 100%;
             margin: 30px;
         }
+        /* ======== Seção Recursos ======== */
+        
+        #recursos {
+            padding: 40px 50px;
+            width: 100%;
+            margin: 20px;
+        }
         /* ====== imagens ====== */
         
-        figure.foto-imagem {}
+        .rotacionar {
+            transform: rotate(30deg);
+            -ms-transform: rotate(30deg);
+            /* IE 9*/
+            -webkit-transform: rotate(30deg);
+            /* Chrome, Safari, Opera */
+            padding-left: 80px;
+        }
         /* ===================== Tipografia =====================*/
         
         h1 {
             font-size: 100px;
-            font-weight: 900;
+            font-weight: bold;
             letter-spacing: -0.05em;
             margin-bottom: 50px;
         }
         
         h2 {
-            color: #7c25f8;
             margin-bottom: 20px;
             font-weight: bold;
             font-size: 50px;
@@ -117,7 +131,6 @@
         }
         
         h3 {
-            color: #7c25f8;
             font-weight: bold;
             font-size: 35px;
             letter-spacing: -0.04em;
@@ -133,4 +146,16 @@
         
         .texto-roxo {
             color: #7c25f8;
+        }
+        
+        .texto-azul {
+            color: aqua;
+        }
+        
+        .texto-branco {
+            color: white;
+        }
+        
+        .bold {
+            font-weight: bold;
         }
