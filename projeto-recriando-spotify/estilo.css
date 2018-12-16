@@ -231,17 +231,38 @@ p {
         margin: 10px 15px;
         padding: 10px 35px;
     }
+    .iphones {
+        visibility: hidden;
+        display: none;
+    }
+    .recursos {
+        width: 100%;
+    }
+    .logo-rodape {
+        margin-bottom: 30px;
+    }
 }
 
 @media screen and (min-width: 768px) {
     h1 {
         font-size: 70px;
     }
+    .iphones {
+        visibility: hidden;
+        display: none;
+    }
+    .recursos {
+        width: 100%;
+    }
 }
 
 @media screen and (min-width: 992px) {
     h1 {
         font-size: 80px;
+    }
+    .iphones {
+        visibility: visible;
+        display: flex;
     }
 }
 
