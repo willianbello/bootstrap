@@ -22,5 +22,6 @@
   <li>escondido a barra de rolagem horizontal no body por causa das imagens atraves do "overflow-x: hidden" </li>
   <li>Ajuste da formatação dos texto da seção recursos.</li>
   <li>Finalizado projeto Spotify e colocado em prática tudo que foi aprendido durante o curso.
+  <li>Ajuste com mediaQuery para dispositivos mobile gerando uma melhor experiência de uso para tamanho de fontes h1 e nos botões de capa (free e premium).
  </ul>
 
