@@ -241,6 +241,10 @@ p {
     .logo-rodape {
         margin-bottom: 30px;
     }
+    .fotos-visibilidade {
+        display: none;
+        visibility: hidden;
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -254,6 +258,10 @@ p {
     .recursos {
         width: 100%;
     }
+    .fotos-visibilidade {
+        display: none;
+        visibility: hidden;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -264,10 +272,18 @@ p {
         visibility: visible;
         display: flex;
     }
+    .fotos-visibilidade {
+        display: flex;
+        visibility: visible;
+    }
 }
 
 @media screen and (min-width: 1200px) {
     h1 {
         font-size: 100px;
+    }
+    .fotos-visibilidade {
+        display: flex;
+        visibility: visible;
     }
 }
