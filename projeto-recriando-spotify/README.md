@@ -23,5 +23,6 @@
   <li>Ajuste da formatação dos texto da seção recursos.</li>
   <li>Finalizado projeto Spotify e colocado em prática tudo que foi aprendido durante o curso.
   <li>Ajuste com mediaQuery para dispositivos mobile gerando uma melhor experiência de uso para tamanho de fontes h1 e nos botões de capa (free e premium).
+  <li>Escondendo elementos de acordo com media query que está visualizando </li>
  </ul>
 
