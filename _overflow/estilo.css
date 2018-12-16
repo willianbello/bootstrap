@@ -1,0 +1,34 @@
+   .overflow {
+       margin: 40px;
+       display: inline-block;
+       float: left;
+       text-align: justify;
+   }
+   
+   .visible {
+       border: 1px solid red;
+       width: 200px;
+       height: 200px;
+       overflow: visible;
+   }
+   
+   .hidden {
+       border: 1px solid red;
+       width: 200px;
+       height: 200px;
+       overflow: hidden;
+   }
+   
+   .scroll {
+       border: 1px solid red;
+       width: 200px;
+       height: 200px;
+       overflow: scroll;
+   }
+   
+   .auto {
+       border: 1px solid red;
+       width: 200px;
+       height: 200px;
+       overflow: auto;
+   }
